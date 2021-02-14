@@ -9,8 +9,8 @@
 
 // Replace with your network credentials
 // to create its own wifi network
-const char* ssid     = "ESP32-Access-Point";
-const char* password = "123456789";
+const char* ssid     = "Esp8266 home autmn praveen";
+const char* password = "11111111";
 
 // Set web server port number to 80
 WiFiServer server(80);
